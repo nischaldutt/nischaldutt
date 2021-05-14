@@ -28,7 +28,7 @@
     <img align="left" alt="gmail" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/nischal_dutt">
-    <img align="left" alt="twitter" width="44px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
+    <img align="left" alt="twitter" width="44px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/nischal_dutt">
     <img align="left" alt="instagram" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
