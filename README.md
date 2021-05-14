@@ -31,7 +31,7 @@
     <img align="left" alt="twitter" width="44px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/nischal_dutt">
-    <img align="left" alt="instagram" width="44px" src="https://instagram.fixc1-4.fna.fbcdn.net/v/t51.2885-19/s150x150/119595374_3464830986910531_2483240069454606322_n.jpg?tp=1&_nc_ht=instagram.fixc1-4.fna.fbcdn.net&_nc_ohc=RZRzV6h-DL0AX9O8pfY&edm=ABfd0MgBAAAA&ccb=7-4&oh=c0706d9500ce72724caf261bee18374c&oe=60C4EC3D&_nc_sid=7bff83" />
+    <img align="left" alt="instagram" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nischal-dutt">
     <img align="left" alt="linkedin" width="44px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
