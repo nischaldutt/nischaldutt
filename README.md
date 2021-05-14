@@ -25,7 +25,7 @@
 
 <div>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=nischaldutt01@gmail.com">
-    <img align="left" alt="gmail" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" />
+    <img align="left" alt="gmail" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/nischal_dutt">
     <img align="left" alt="twitter" width="44px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
