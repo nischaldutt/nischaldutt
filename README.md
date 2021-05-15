@@ -37,7 +37,7 @@
     <img align="left" alt="linkedin" width="40px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
   </a> &nbsp;&nbsp;
   <a href="https://nischaldutt.netlify.app/">
-    <img align="left" alt="website" width="40px" src="https://i.imgur.com/Bk9wcrn.png" />
+    <img align="left" alt="website" width="35px" src="https://i.imgur.com/Bk9wcrn.png" />
   </a>
 </div>
 
