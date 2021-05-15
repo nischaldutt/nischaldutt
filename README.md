@@ -25,19 +25,19 @@
 
 <div >
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=nischaldutt01@gmail.com">
-    <img align="left" alt="gmail" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+    <img alt="gmail" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/nischal_dutt">
-    <img align="left" alt="twitter" width="44px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
+    <img alt="twitter" width="44px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/nischal_dutt">
-    <img align="left" alt="instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
+    <img alt="instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nischal-dutt">
-    <img align="left" alt="linkedin" width="40px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
+    <img alt="linkedin" width="40px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
   </a> &nbsp;&nbsp;
   <a href="https://nischaldutt.netlify.app/">
-    <img align="left" alt="website" width="35px" src="https://i.imgur.com/Bk9wcrn.png" />
+    <img alt="website" width="40px" src="https://i.imgur.com/Bk9wcrn.png" />
   </a>
 </div>
 
