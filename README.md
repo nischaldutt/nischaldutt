@@ -11,7 +11,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="MySQL"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="Redis"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://avatars2.githubusercontent.com/u/33663932?s=200&v=4" alt="Material-UI"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> &nbsp;&nbsp;
