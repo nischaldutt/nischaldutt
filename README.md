@@ -23,12 +23,12 @@
 
 ## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-<div >
+<div>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=nischaldutt01@gmail.com">
     <img alt="gmail" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/nischal_dutt">
-    <img alt="twitter" width="34px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
+    <img alt="twitter" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/200px-Twitter-logo.svg.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/nischal_dutt">
     <img alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
