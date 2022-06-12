@@ -7,9 +7,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React and React Native"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React-Query"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" alt="Express"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="MySQL"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> &nbsp;&nbsp;
