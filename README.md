@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/qW1kwSI.gif" alt="github header" />
+<img src="https://i.imgur.com/hGCUgHl.gif" alt="github header" />
 
 ## Technology Stack
 
