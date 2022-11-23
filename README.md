@@ -24,7 +24,7 @@
 
 </br>
 
-## <a href="https://dev.to/nischal_dutt"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="dev.to" alt="dev.to" width="25"/></a> Recent Articles on DEV.to
+## ✍🏻 Blogs
  <!-- DEVTO-BLOG-LIST:START -->
 
 <!-- DEVTO-BLOG-LIST:END -->
