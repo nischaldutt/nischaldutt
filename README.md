@@ -24,7 +24,7 @@
 
 </br>
 
-## Blogs
+## ✍🏻 Blogs
 <!-- DEVTO-BLOG-LIST:START -->
 - [RxJS Observables vs Promises](https://dev.to/nischal_dutt/rxjs-observables-vs-promises-572f)
 - [What are RxJS Observables?](https://dev.to/nischal_dutt/what-are-rxjs-observables-2jhk)
