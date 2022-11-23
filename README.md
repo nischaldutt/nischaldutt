@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/hGCUgHl.gif" alt="github header" />
 
-## Technology Stack
+## 👨‍💻 Technology Stack
 
 <div align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code> &nbsp;&nbsp;
@@ -16,9 +16,19 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> &nbsp;&nbsp;
 <code><img height="30" src="https://git-scm.com/images/logo@2x.png" alt="git"></code> &nbsp;&nbsp;
 </div>
+
+</br>
 </br>
 
 ![Nischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nischaldutt&theme=vue&show_icons=true)
+
+</br>
+
+## <a href="https://dev.to/nischal_dutt"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="dev.to" alt="dev.to" width="25"/></a> Recent Articles on DEV.to
+ <!-- DEVTO-BLOG-LIST:START -->
+
+<!-- DEVTO-BLOG-LIST:END -->
+
 </br>
 
 ## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
@@ -46,4 +56,4 @@
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=nischaldutt&color=brightgreen)
+![profile stats](https://komarev.com/ghpvc/?username=nischaldutt&color=brightgreen)
