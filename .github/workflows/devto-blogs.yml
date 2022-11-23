@@ -1,0 +1,16 @@
+name: Blogs
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blogs:
+    name: Update this repo's README with latest blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEVTO-BLOG-LIST"
+          feed_list: "https://dev.to/nischal_dutt"
