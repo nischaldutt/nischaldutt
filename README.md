@@ -35,7 +35,7 @@
 
 </br>
 
-## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 
 <div>
   <a href="mailto:nischaldutt01@gmail.com">
@@ -58,6 +58,7 @@
   </a>
 </div>
 
+</br>
 </br>
 
 ![profile stats](https://komarev.com/ghpvc/?username=nischaldutt&color=brightgreen)
