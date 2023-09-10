@@ -37,14 +37,14 @@
 
 <div>
   <a href="mailto:nischaldutt01@gmail.com">
-    <img alt="gmail" width="100" src="https://i.imgur.com/ac2TNqd.png" />
-  </a> 
+    <img alt="gmail" width="40" src="https://i.imgur.com/JVar4GQ.png" />
+  </a> &nbsp;&nbsp;
   <a href="https://twitter.com/nischal_dutt">
     <img alt="twitter" width="40" src="https://i.imgur.com/xupf0SU.jpg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/nischal_dutt">
     <img alt="devto" width="40" src="https://i.imgur.com/LCqV3cR.png" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nischal-dutt">
     <img alt="linkedin" width="40" src="https://i.imgur.com/5i3zphy.png" />
   </a>
