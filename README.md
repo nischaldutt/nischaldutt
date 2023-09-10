@@ -3,18 +3,16 @@
 ## 👨‍💻 Technology Stack
 
 <div align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React and React Native"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React-Query"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" alt="Express"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="MySQL"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> &nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> &nbsp;&nbsp;
-<code><img height="30" src="https://git-scm.com/images/logo@2x.png" alt="git"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/Et7AAOe.png" alt="Javascript"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/3waSHjI.png" alt="React and React Native"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/eaLTYJU.png" alt="React-Query"></code> &nbsp;&nbsp;
+<code><img height="25" src="https://i.imgur.com/rwFlFeT.png" alt="Next.js"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/bjTuZEP.png" alt="Node.js"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/QXr4e0h.png" alt="SQL"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/Wn6BQdM.png" alt="Java"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/VxFZq16.png" alt="HTML"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/d6NJszc.png" alt="CSS"></code> &nbsp;&nbsp;
+<code><img height="30" src="https://i.imgur.com/Mllrj6o.png" alt="git"></code> &nbsp;&nbsp;
 </div>
 
 </br>
@@ -39,22 +37,16 @@
 
 <div>
   <a href="mailto:nischaldutt01@gmail.com">
-    <img alt="gmail" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-  </a> &nbsp;&nbsp;
+    <img alt="gmail" width="100" src="https://i.imgur.com/ac2TNqd.png" />
+  </a> 
   <a href="https://twitter.com/nischal_dutt">
-    <img alt="twitter" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/200px-Twitter-logo.svg.png" />
+    <img alt="twitter" width="40" src="https://i.imgur.com/xupf0SU.jpg" />
   </a> &nbsp;&nbsp;
   <a href="https://dev.to/nischal_dutt">
-    <img alt="gmail" width="28px" src="https://pbs.twimg.com/profile_images/1389789795065335809/A8H1fuQb_400x400.jpg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nischal_dutt">
-    <img alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
+    <img alt="devto" width="40" src="https://i.imgur.com/LCqV3cR.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nischal-dutt">
-    <img alt="linkedin" width="30px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
-  </a> &nbsp;&nbsp;
-  <a href="https://nischaldutt.netlify.app/">
-    <img alt="website" width="30px" src="https://i.imgur.com/Bk9wcrn.png" />
+    <img alt="linkedin" width="40" src="https://i.imgur.com/5i3zphy.png" />
   </a>
 </div>
 
