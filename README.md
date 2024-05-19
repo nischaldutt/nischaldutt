@@ -5,6 +5,7 @@
 <div align="center">
 <code><img height="40" src="https://i.imgur.com/Et7AAOe.png" alt="Javascript"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://i.imgur.com/3waSHjI.png" alt="React and React Native"></code> &nbsp;&nbsp;
+<code><img height="40" src="https://i.imgur.com/ptrOYYo.png" alt="Redux"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://i.imgur.com/eaLTYJU.png" alt="React-Query"></code> &nbsp;&nbsp;
 <code><img height="25" src="https://i.imgur.com/rwFlFeT.png" alt="Next.js"></code> &nbsp;&nbsp;
 <code><img height="40" src="https://i.imgur.com/bjTuZEP.png" alt="Node.js"></code> &nbsp;&nbsp;
