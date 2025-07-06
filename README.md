@@ -28,7 +28,7 @@
 - [What are RxJS Observables?](https://dev.to/nischal_dutt/what-are-rxjs-observables-2jhk)
 - [Server-Side Rendering in React 18](https://dev.to/nischal_dutt/server-side-rendering-in-react-18-1m4h)
 - [Mutations](https://dev.to/nischal_dutt/mutations-3d31)
-- [Paginated & Infinite Queries](https://dev.to/nischal_dutt/paginated-infinite-queries-182p)
+- [Paginated &amp; Infinite Queries](https://dev.to/nischal_dutt/paginated-infinite-queries-182p)
 <!-- DEVTO-BLOG-LIST:END -->
 
 <br/>
